@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JWPlayerBasicDemo.iml" filepath="$PROJECT_DIR$/JWPlayerBasicDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwplayer-android-sdk-1.3.115/jwplayer-android-sdk-1.3.115.iml" filepath="$PROJECT_DIR$/jwplayer-android-sdk-1.3.115/jwplayer-android-sdk-1.3.115.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwplayer-android-sdk-2.0.87/jwplayer-android-sdk-2.0.87.iml" filepath="$PROJECT_DIR$/jwplayer-android-sdk-2.0.87/jwplayer-android-sdk-2.0.87.iml" />
+    </modules>
+  </component>
+</project>
